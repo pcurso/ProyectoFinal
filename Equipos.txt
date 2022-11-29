@@ -1,6 +1,6 @@
-Aguilas Cibaeñas
-Tigres del Licey
-Leones del Escogido
-Toros del Este
-Estrellas Orientales
-Gigantes del Cibao
+1-Aguilas Cibaeñas
+2-Tigres del Licey
+3-Leones del Escogido
+4-Toros del Este
+5-Estrellas Orientales
+6-Gigantes del Cibao
